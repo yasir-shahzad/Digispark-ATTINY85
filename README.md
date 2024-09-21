@@ -1,7 +1,7 @@
 # Digispark-ATTINY85
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/latest)](https://github.com/yasir-shahzad/Digispark-ATTINY85/commits/master)
-[![GitHub issues](https://img.shields.io/github/issues/yasir-shahzad/STM32-ST-Link-V2.0-Programmer.svg)](https://github.com/yasir-shahzad/Digispark-ATTINY85/issues)
+[![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/Digispark-ATTINY85/latest)](https://github.com/yasir-shahzad/Digispark-ATTINY85/commits/master)
+[![GitHub issues](https://img.shields.io/github/issues/yasir-shahzad/Digispark-ATTINY85.svg)](https://github.com/yasir-shahzad/Digispark-ATTINY85/issues)
 ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=yasir-shahzad_Digispark-ATTINY85)
 
 If you like **STM32-ST-Link-V2.0** - give it a star, or fork it and contribute!
@@ -25,10 +25,10 @@ I offer professional services for embedded systems design and hardware developme
 
 
 ## Schematic Diagram
-![Schematic Diagram](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/blob/master/images/Schematic.png)
+![Schematic Diagram](https://github.com/yasir-shahzad/Digispark-ATTINY85/blob/master/images/Schematic.png)
 
 ## PCB Files
-![PCB Board](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/blob/master/images/PCB.png)
+![PCB Board](https://github.com/yasir-shahzad/Digispark-ATTINY85/blob/master/images/PCB.png)
 
 ## Features
 - 5 V power supplied by a USB connector
