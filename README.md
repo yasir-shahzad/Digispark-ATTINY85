@@ -1,12 +1,12 @@
 # Digispark-ATTINY85
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/latest)](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/commits/master)
-[![GitHub issues](https://img.shields.io/github/issues/yasir-shahzad/STM32-ST-Link-V2.0-Programmer.svg)](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/issues)
+[![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/latest)](https://github.com/yasir-shahzad/Digispark-ATTINY85/commits/master)
+[![GitHub issues](https://img.shields.io/github/issues/yasir-shahzad/STM32-ST-Link-V2.0-Programmer.svg)](https://github.com/yasir-shahzad/Digispark-ATTINY85/issues)
 ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=yasir-shahzad_Digispark-ATTINY85)
 
 If you like **STM32-ST-Link-V2.0** - give it a star, or fork it and contribute!
-[![GitHub stars](https://img.shields.io/github/stars/yasir-shahzad/STM32-ST-Link-V2.0-Programmer.svg?style=social&label=Star)](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yasir-shahzad/STM32-ST-Link-V2.0-Programmer.svg?style=social&label=Fork)](https://github.com/yasir-shahzad/STM32-ST-Link-V2.0-Programmer/network)
+[![GitHub stars](https://img.shields.io/github/stars/yasir-shahzad/Digispark-ATTINY85.svg?style=social&label=Star)](https://github.com/yasir-shahzad/Digispark-ATTINY85/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yasir-shahzad/Digispark-ATTINY85.svg?style=social&label=Fork)](https://github.com/yasir-shahzad/Digispark-ATTINY85/network)
 
 This repository contains the open-source schematic and PCB design files for an ST-Link V2.0 clone, created using Altium Designer. This clone allows you to program and debug STM8 and STM32 microcontrollers.
 
