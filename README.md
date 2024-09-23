@@ -106,7 +106,7 @@ This repository contains the open-source schematic and PCB design files for a **
 ## Schematic Diagram
 ![Schematic Diagram](https://github.com/yasir-shahzad/Digispark-ATTINY85/blob/master/images/Schematic.png)
 
-## Layout Design
+## PCB layout
 ![PCB Board](https://github.com/yasir-shahzad/Digispark-ATTINY85/blob/master/images/PCB.png)
 
 ## 🌟 Features
