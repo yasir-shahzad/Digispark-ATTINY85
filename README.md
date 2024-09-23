@@ -34,19 +34,19 @@ I offer professional services for embedded systems design and hardware developme
 ![PCB Board](https://github.com/yasir-shahzad/Digispark-ATTINY85/blob/master/images/PCB.png)
 
 ## Features
-- USB 5 V power supply
-- Full-speed USB interface
-- Bootloader for uploading sketches via USB
-- Onboard 500 mA 5 V regulator
-- 6 I/O pins (3 PWM pins, 4 ADC pins)
-- SPI and I2C supported
-- 8 KB of flash memory (6 KB usable after bootloader)
-- 512 bytes of SRAM
-- 512 bytes of EEPROM
-- Compatible with the Arduino IDE using the Digispark board package
-- Operating voltage: 5 V
-- Small form factor with low power consumption
-- Status LED onboard
+🟣 USB 5 V power supply
+🔵 Full-speed USB interface
+🟢 Bootloader for uploading sketches via USB
+🟡 Onboard 500 mA 5 V regulator
+🟠 6 I/O pins (3 PWM pins, 4 ADC pins)
+🔴 SPI and I2C supported
+🟣 8 KB of flash memory (6 KB usable after bootloader)
+🔵 512 bytes of SRAM
+🟢 512 bytes of EEPROM
+🟡 Compatible with the Arduino IDE using the Digispark board package
+🟠 Operating voltage: 5 V
+🔴 Small form factor with low power consumption
+🟣 Status LED onboard
 
 ## Requirements
 
