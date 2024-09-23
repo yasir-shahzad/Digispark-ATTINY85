@@ -35,19 +35,19 @@ I offer professional services for embedded systems design and hardware developme
 
 ## 🌟 Features
 
-- 🟣 **USB 5 V power supply** 🔌 for easy powering via USB.
-- 🔵 **Full-speed USB interface** ⚡️ for fast and reliable data transfer.
-- 🟢 **Bootloader for uploading sketches via USB** 💻, no external programmer required.
-- 🟡 **Onboard 500 mA 5 V regulator** 🔋 for stable power distribution.
-- 🟠 **6 I/O pins** 🛠️ (3 PWM pins, 4 ADC pins) for versatile input/output control.
-- 🔴 **SPI and I2C supported** 🔗 for easy communication with other devices.
-- 🟣 **8 KB of flash memory** 💾 (6 KB usable after bootloader) for storing your programs.
-- 🔵 **512 bytes of SRAM** 📦 for temporary data storage.
-- 🟢 **512 bytes of EEPROM** ✍️ for storing data even after power off.
-- 🟡 **Compatible with the Arduino IDE** 🛠️ using the Digispark board package for seamless integration.
-- 🟠 **Operating voltage: 5 V** ⚡️, perfect for most electronics projects.
-- 🔴 **Small form factor** 📏 with low power consumption, ideal for compact projects.
-- 🟣 **Status LED onboard** 💡 to indicate activity.
+-  **USB 5 V power supply** 🔌 for easy powering via USB.
+-  **Full-speed USB interface** ⚡️ for fast and reliable data transfer.
+-  **Bootloader for uploading sketches via USB** 💻, no external programmer required.
+-  **Onboard 500 mA 5 V regulator** 🔋 for stable power distribution.
+-  **6 I/O pins** 🛠️ (3 PWM pins, 4 ADC pins) for versatile input/output control.
+-  **SPI and I2C supported** 🔗 for easy communication with other devices.
+-  **8 KB of flash memory** 💾 (6 KB usable after bootloader) for storing your programs.
+-  **512 bytes of SRAM** 📦 for temporary data storage.
+-  **512 bytes of EEPROM** ✍️ for storing data even after power off.
+-  **Compatible with the Arduino IDE** 🛠️ using the Digispark board package for seamless integration.
+-  **Operating voltage: 5 V** ⚡️, perfect for most electronics projects.
+-  **Small form factor** 📏 with low power consumption, ideal for compact projects.
+-  **Status LED onboard** 💡 to indicate activity.
 
 
 
