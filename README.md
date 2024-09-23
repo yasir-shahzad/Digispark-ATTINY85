@@ -5,7 +5,7 @@
 ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=yasir-shahzad_Digispark-ATTINY85)
 
 If you like **Digispark-ATTINY85** - give it a star, or fork it and contribute!  
-[![GitHub stars](https://img.shields.io/github/stars/yasir-shahzad/Digispark-ATTINY85.svg?style=social&label=Star)](https://github.com/yasir-shahzad/Digispark-ATTINY85/stargazers) 
+[![GitHub stars](https://img.shields.io/github/stars/yasir-shahzad/Digispark-ATTINY85.svg?style=social&label=Star)](https://github.com/yasir-shahzad/Digispark-ATTINY85/stargazers)  
 [![GitHub forks](https://img.shields.io/github/forks/yasir-shahzad/Digispark-ATTINY85.svg?style=social&label=Fork)](https://github.com/yasir-shahzad/Digispark-ATTINY85/network)
 
 This repository contains the open-source schematic and PCB design files for a **Digispark ATTINY85** development board clone, created using Altium Designer. This board allows you to work with the ATTINY85 microcontroller using the Digispark platform.
