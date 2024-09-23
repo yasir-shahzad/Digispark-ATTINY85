@@ -106,7 +106,7 @@ This repository contains the open-source schematic and PCB design files for a **
 ## Schematic Diagram
 ![Schematic Diagram](https://github.com/yasir-shahzad/Digispark-ATTINY85/blob/master/images/Schematic.png)
 
-## PCB Files
+## Layout Design
 ![PCB Board](https://github.com/yasir-shahzad/Digispark-ATTINY85/blob/master/images/PCB.png)
 
 ## 🌟 Features
@@ -131,7 +131,7 @@ This repository contains the open-source schematic and PCB design files for a **
 
 - 🛠️ **Altium Designer** (or a compatible viewer)
 
-## Screenshots 📸
+## Images 📸
 
 <table>
   <tr>
@@ -162,8 +162,8 @@ This repository contains the open-source schematic and PCB design files for a **
 
 1. **Download the repository**: 🟢 Click "Clone or download" on the green button above.
 2. **Open the project**: 🖥️ Use Altium Designer to open the `.PrjPCB` file located in the main directory.
-3. **Review the schematics**: 📜 The `schematic.SchDoc` file shows the electrical connections and components used in the design.
-4. **Examine the PCB layout**: 🧩 The `PCB.PCBDoc` file represents the physical layout of the components on the printed circuit board.
+3. **Schematics**: 📜 The `schematic.SchDoc` file shows the electrical connections and components used in the design.
+4. **PCB layout**: 🧩 The `PCB.PCBDoc` file represents the physical layout of the components on the printed circuit board.
 5. **Generate BOM (optional)**: 🛒 Use Altium Designer's BOM generation features to create a list of required components.
 
 ## Additional Information ℹ️
