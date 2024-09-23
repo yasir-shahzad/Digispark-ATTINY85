@@ -36,8 +36,9 @@ This repository contains the open-source schematic and PCB design files for a **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="42" alt="redux logo"  />
-</div>
-
+</div>  
+ <br>
+ <br>
 
 ## Schematic Diagram
 ![Schematic Diagram](https://github.com/yasir-shahzad/Digispark-ATTINY85/blob/master/images/Schematic.png)
