@@ -17,7 +17,7 @@ This repository contains the open-source schematic and PCB design files for a **
 **Support My Work and Future Projects**:  
 If you'd like to contribute and help bring more exciting projects to life, consider sponsoring my work. Every bit of support is greatly appreciated and helps me continue creating valuable tools and solutions.
 
-<p align='center'>
+<p align='left'>
  <a href="https://github.com/sponsors/yasir-shahzad">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
   </a>&nbsp;&nbsp;
