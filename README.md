@@ -127,53 +127,57 @@ This repository contains the open-source schematic and PCB design files for a **
 
 
 
-## Requirements
+## Requirements 📋
 
-- Altium Designer (or a compatible viewer)
+- 🛠️ **Altium Designer** (or a compatible viewer)
 
-## Screenshots :eyes:
+## Screenshots 📸
 
 <table>
   <tr>
     <th>
         <a href="images/Top3D.png" target="_blank">
-        <img src='images/Top3D.png' width='200px' alt='Top 3D View' /> </a>
+        <img src='images/Top3D.png' width='200px' alt='Top 3D View' /> </a>  
+        <p>🔼 Top 3D View</p>
     </th>
     <th>
         <a href="images/Bottom3D.png" target="_blank">
         <img src='images/Bottom3D.png' width='200px' alt='Bottom 3D View' /> </a>
-    </th>  
+        <p>🔽 Bottom 3D View</p>
+    </th>
     <th>
         <a href="images/Top_Layout.png" target="_blank">
         <img src='images/Top_Layout.png' width='200px' alt='Top Layout' /> </a>
+        <p>🔼 Top Layout</p>
     </th>
     <th>
         <a href="images/Bottom_Layout.png" target="_blank">
         <img src='images/Bottom_Layout.png' width='200px' alt='Bottom Layout' /> </a>
+        <p>🔽 Bottom Layout</p>
     </th>
   </tr>
 </table>
 
-## Getting Started
+## Getting Started 🚀
 
-1. **Download the repository**: Click "Clone or download" on the green button above.
-2. **Open the project**: Use Altium Designer to open the `.PrjPCB` file located in the main directory.
-3. **Review the schematics**: The `schematic.SchDoc` file shows the electrical connections and components used in the design.
-4. **Examine the PCB layout**: The `PCB.PCBDoc` file represents the physical layout of the components on the printed circuit board.
-5. **Generate BOM (optional)**: Use Altium Designer's BOM generation features to create a list of required components.
+1. **Download the repository**: 🟢 Click "Clone or download" on the green button above.
+2. **Open the project**: 🖥️ Use Altium Designer to open the `.PrjPCB` file located in the main directory.
+3. **Review the schematics**: 📜 The `schematic.SchDoc` file shows the electrical connections and components used in the design.
+4. **Examine the PCB layout**: 🧩 The `PCB.PCBDoc` file represents the physical layout of the components on the printed circuit board.
+5. **Generate BOM (optional)**: 🛒 Use Altium Designer's BOM generation features to create a list of required components.
 
-## Additional Information
+## Additional Information ℹ️
 
-- Firmware: This repository does not include the firmware. You can program the board using the Arduino IDE by installing the Digispark ATTINY85 board package from the boards manager.
-- Assembly instructions (optional): Consider adding a separate document or webpage with detailed instructions on soldering and assembling the PCB (if applicable).
-- License: Specify the open-source license used for the design files (e.g., MIT License).
+- **Firmware**: This repository does not include the firmware. You can program the board using the Arduino IDE by installing the Digispark ATTINY85 board package from the boards manager.
+- **Assembly instructions (optional)**: 🔧 Consider adding a separate document or webpage with detailed instructions on soldering and assembling the PCB (if applicable).
+- **License**: 📄 Specify the open-source license used for the design files (e.g., MIT License).
 
-## Contributing
+## Contributing 🤝
 
 We encourage contributions to this project! Feel free to submit pull requests with improvements, bug fixes, or additional features.
 
-## Thanks to all contributors ❤
+## Thanks to all contributors ❤️
 
- <a href = "https://github.com/yasir-shahzad/Digispark-ATTINY85/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=yasir-shahzad/Digispark-ATTINY85"/>
+ <a href="https://github.com/yasir-shahzad/Digispark-ATTINY85/graphs/contributors">
+   <img src="https://contrib.rocks/image?repo=yasir-shahzad/Digispark-ATTINY85" />
  </a>
