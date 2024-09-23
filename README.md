@@ -14,7 +14,7 @@ If you like **Digispark-ATTINY85** - give it a star, or fork it and contribute!
 
 This repository contains the open-source schematic and PCB design files for a **Digispark ATTINY85** development board clone, created using Altium Designer. This board allows you to work with the ATTINY85 microcontroller using the Digispark platform.
 
-🟠 **Support My Work and Future Projects**:  
+**Support My Work and Future Projects**:  
 If you'd like to contribute and help bring more exciting projects to life, consider sponsoring my work. Every bit of support is greatly appreciated and helps me continue creating valuable tools and solutions.
 
 <p align='center'>
