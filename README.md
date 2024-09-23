@@ -8,6 +8,18 @@ If you like **Digispark-ATTINY85** - give it a star, or fork it and contribute!
 [![GitHub stars](https://img.shields.io/github/stars/yasir-shahzad/Digispark-ATTINY85.svg?style=social&label=Star)](https://github.com/yasir-shahzad/Digispark-ATTINY85/stargazers)  
 [![GitHub forks](https://img.shields.io/github/forks/yasir-shahzad/Digispark-ATTINY85.svg?style=social&label=Fork)](https://github.com/yasir-shahzad/Digispark-ATTINY85/network)
 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/Digispark-ATTINY85r/latest)](https://github.com/yasir-shahzad/Digispark-ATTINY85r/commits/master)
+[![GitHub issues](https://img.shields.io/github/issues/yasir-shahzad/Digispark-ATTINY85r.svg)](https://github.com/yasir-shahzad/Digispark-ATTINY85r/issues)
+![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=yasir-shahzad_STM32-ST-Link-V2.0-Programmer)
+
+If you like **Digispark-ATTINY85** - give it a star, or fork it and contribute!  
+[![GitHub stars](https://img.shields.io/github/stars/yasir-shahzad/Digispark-ATTINY85r.svg?style=social&label=Star)](https://github.com/yasir-shahzad/Digispark-ATTINY85r/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yasir-shahzad/Digispark-ATTINY85r.svg?style=social&label=Fork)](https://github.com/yasir-shahzad/Digispark-ATTINY85r/network)
+
+
+
 This repository contains the open-source schematic and PCB design files for a **Digispark ATTINY85** development board clone, created using Altium Designer. This board allows you to work with the ATTINY85 microcontroller using the Digispark platform.
 
 ## Need Help with Embedded Systems or Hardware Design?
