@@ -171,3 +171,9 @@ This repository contains the open-source schematic and PCB design files for a **
 ## Contributing
 
 We encourage contributions to this project! Feel free to submit pull requests with improvements, bug fixes, or additional features.
+
+## Thanks to all contributors ❤
+
+ <a href = "https://github.com/yasir-shahzad/Digispark-ATTINY85/graphs/contributors">
+   <img src = "https://contrib.rocks/image?repo=yasir-shahzad/Digispark-ATTINY85"/>
+ </a>
