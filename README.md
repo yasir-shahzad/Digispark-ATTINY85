@@ -10,22 +10,11 @@ If you like **Digispark-ATTINY85** - give it a star, or fork it and contribute!
 
 This repository contains the open-source schematic and PCB design files for a **Digispark ATTINY85** development board clone, created using Altium Designer. This board allows you to work with the ATTINY85 microcontroller using the Digispark platform.
 
-ðŸ’¼ As a freelancer, you can also find me on:
+ As a freelancer, you can also find me on:
 
 [![Fiverr Logo](https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=1DBF73&logoColor=white&labelColor=&style=for-the-badge)](https://www.fiverr.com/maker_shihab) [![Upwork Logo](https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge)](https://www.upwork.com/freelancers/~01463e018a3c2ff216)
 
 
-
-## Need Help with Embedded Systems or Hardware Design?
-
-I offer professional services for embedded systems design and hardware development at competitive rates starting at **$10/hour**. If you're looking for assistance with your next project, feel free to contact me:
-
-<a href="https://www.facebook.com/yasirshahzad918/" target="blank"><img align="center" src="path/to/facebook-icon.svg" alt="Facebook Profile" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/yasirshahzad18/" target="blank"><img align="center" src="path/to/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mastermind.pk/" target="blank"><img align="center" src="path/to/instagram-icon.svg" alt="Instagram Profile" height="30" width="40" /></a>
-<a href="https://twitter.com/yourprofile" target="blank"><img align="center" src="path/to/twitter-icon.svg" alt="Twitter Profile" height="30" width="40" /></a>
-<a href="https://www.fiverr.com/yourprofile" target="blank"><img align="center" src="path/to/fiverr-icon.svg" alt="Fiverr Profile" height="30" width="40" /></a>
-<a href="https://www.upwork.com/yourprofile" target="blank"><img align="center" src="path/to/upwork-icon.svg" alt="Upwork Profile" height="30" width="40" /></a>
 
 ## Schematic Diagram
 ![Schematic Diagram](https://github.com/yasir-shahzad/Digispark-ATTINY85/blob/master/images/Schematic.png)
