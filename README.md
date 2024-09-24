@@ -9,9 +9,6 @@ If you like **Digispark-ATTINY85** - give it a star, or fork it and contribute!
 [![GitHub stars](https://img.shields.io/github/stars/yasir-shahzad/Digispark-ATTINY85.svg?style=social&label=Star)](https://github.com/yasir-shahzad/Digispark-ATTINY85/stargazers)  
 [![GitHub forks](https://img.shields.io/github/forks/yasir-shahzad/Digispark-ATTINY85.svg?style=social&label=Fork)](https://github.com/yasir-shahzad/Digispark-ATTINY85/network)
 
-
-
-
 This repository contains the open-source schematic and PCB design files for a **Digispark ATTINY85** development board clone, created using Altium Designer. This board allows you to work with the ATTINY85 microcontroller using the Digispark platform.
 
 **Support My Work and Future Projects**:  
@@ -89,8 +86,6 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 </p>
 
 
-
-
 <div align="center">
 <a href="https://www.youtube.com/@CircuitInnovate" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
@@ -120,7 +115,7 @@ The complete schematic diagram shows the electrical connections and components u
 ![Schematic Diagram](https://github.com/yasir-shahzad/Digispark-ATTINY85/blob/master/images/Schematic.png)
 
 ## 🖼️ PCB Layout
-The PCB layout represents the physical arrangement of components on the printed circuit board, detailing how they are positioned and connected
+The PCB layout represents the physical arrangement of components on the printed circuit board, detailing how they are positioned and connected.
 ![PCB Board](https://github.com/yasir-shahzad/Digispark-ATTINY85/blob/master/images/PCB.png)
 
 ## 🌟 Features
