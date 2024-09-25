@@ -1,5 +1,5 @@
 # ⚡ Digispark-ATTINY85 ⚙️
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/Digispark-ATTINY85/latest)](https://github.com/yasir-shahzad/Digispark-ATTINY85/commits/master) 
 [![GitHub issues](https://img.shields.io/github/issues/yasir-shahzad/Digispark-ATTINY85.svg)](https://github.com/yasir-shahzad/Digispark-ATTINY85/issues) 
 [![Downloads](https://img.shields.io/github/downloads/yasir-shahzad/Digispark-ATTINY85/total.svg?maxAge=3600)](https://github.com/yasir-shahzad/Digispark-ATTINY85/releases/latest) 
