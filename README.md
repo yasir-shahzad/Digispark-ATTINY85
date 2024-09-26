@@ -3,7 +3,6 @@
 [![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/Digispark-ATTINY85/latest)](https://github.com/yasir-shahzad/Digispark-ATTINY85/commits/master) 
 [![GitHub issues](https://img.shields.io/github/issues/yasir-shahzad/Digispark-ATTINY85.svg)](https://github.com/yasir-shahzad/Digispark-ATTINY85/issues) 
 [![Downloads](https://img.shields.io/github/downloads/yasir-shahzad/Digispark-ATTINY85/total.svg?maxAge=3600)](https://github.com/yasir-shahzad/Digispark-ATTINY85/releases/latest) 
-[![Downloads](https://yasir-shahzad/badge/Digispark-ATTINY85)](https://yasir-shahzad/project/Digispark-ATTINY85)
 ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=yasir-shahzad_Digispark-ATTINY85)
 
 If you like **Digispark-ATTINY85** - give it a star, or fork it and contribute!  
