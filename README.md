@@ -16,21 +16,9 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 
 <p align='left'>
   <a href="https://github.com/sponsors/yasir-shahzad">
-    <img class="blinking-button" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
-  </a>&nbsp;&nbsp;
+    <img src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/sponsor.gif" alt="Sponsor" />
+  </a>
 </p>
-
-<style>
-  .blinking-button {
-    animation: blinker 1.5s linear infinite;
-  }
-
-  @keyframes blinker {
-    50% {
-      opacity: 0;
-    }
-  }
-</style>
 
 
 🟠 **As a freelancer, you can also find me on**:
