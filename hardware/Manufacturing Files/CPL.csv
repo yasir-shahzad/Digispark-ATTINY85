@@ -1,0 +1,30 @@
+Altium Designer Pick and Place Locations,,,,
+E:\mastermind\PCB\ATTiny85\1PCBSAMPLE\Project Outputs for ATTiny85\Pick Place for ATTiny85.csv,,,,
+,,,,
+========================================================================================================================,,,,
+File Design Information:,,,,
+,,,,
+Date:       06/10/24,,,,
+Time:       15:53,,,,
+Revision:   Not in VersionControl,,,,
+Variant:    No variations,,,,
+Units used: mm,,,,
+,,,,
+Designator,Layer,Center-X(mm),Center-Y(mm),Rotation
+J2,TopLayer,5.5088mm,1.8256mm,180
+J1,TopLayer,16.1132mm,10.7305mm,270
+D3,TopLayer,14.6210mm,1.3970mm,0
+C1,TopLayer,12.9336mm,8.5512mm,0
+CN1,TopLayer,-4.0315mm,9.7578mm,270
+R5,TopLayer,10.6176mm,4.1061mm,0
+R4,TopLayer,9.1154mm,12.5267mm,180
+R3,TopLayer,3.1673mm,12.6034mm,0
+R2,TopLayer,2.3491mm,17.0717mm,0
+R1,TopLayer,2.3544mm,18.4523mm,0
+LED2,TopLayer,11.6386mm,12.2699mm,90
+LED1,TopLayer,10.3845mm,1.9617mm,0
+C2,TopLayer,14.0389mm,11.1675mm,270
+U1,TopLayer,7.9763mm,8.1830mm,90
+U2,TopLayer,8.7248mm,15.9676mm,270
+D1,TopLayer,0.9655mm,14.9960mm,270
+D2,TopLayer,6.2497mm,12.4294mm,0
