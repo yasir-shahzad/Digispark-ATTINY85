@@ -112,7 +112,7 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 
 
 ## Schematic Diagram 📉  
-The complete schematic diagram shows the electrical connections and components used in the design. 
+The complete schematic diagram shows the electrical connections and components used in the design.  
 ![ATTINY85 Schematic Diagram](https://github.com/yasir-shahzad/Digispark-ATTINY85/blob/master/images/ATtiny85-schematic.png)
 
 ## PCB Layout 🖼️  
