@@ -113,11 +113,11 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 
 ## Schematic Diagram 📉  
 The complete schematic diagram shows the electrical connections and components used in the design.  
-![ATTINY85 Schematic Diagram](https://github.com/yasir-shahzad/Digispark-ATTINY85/blob/master/images/ATtiny85-schematic.png)
+![alt ATTINY85 Schematic Diagram](https://github.com/yasir-shahzad/Digispark-ATTINY85/blob/master/images/ATtiny85-schematic.png)
 
 ## PCB Layout 🖼️  
 The PCB layout represents the physical arrangement of components on the printed circuit board, detailing how they are positioned and connected.  
-![ATTINY85 PCB Layout](https://github.com/yasir-shahzad/Digispark-ATTINY85/blob/master/images/ATtiny85-PCB.png)
+![alt ATTINY85 PCB Layout](https://github.com/yasir-shahzad/Digispark-ATTINY85/blob/master/images/ATtiny85-PCB.png)
 
 
 ## Features 🌟
